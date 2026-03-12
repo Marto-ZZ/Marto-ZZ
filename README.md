@@ -52,6 +52,23 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
 ```python
 class MartinSogoloff:
     
@@ -73,27 +90,10 @@ class MartinSogoloff:
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-[![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=NOMBRE-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/NOMBRE-REPO)
-[![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=NOMBRE-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/NOMBRE-REPO)
+[![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
+[![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=IMAGO-Image-Converter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
 
 </div>
 
