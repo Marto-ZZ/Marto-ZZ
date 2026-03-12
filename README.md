@@ -56,10 +56,6 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
@@ -100,8 +96,6 @@ class MartinSogoloff:
 [![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=IMAGO-Image-Converter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
 
 </div>
-
----
 
 ### 📫 Let's talk
 
