@@ -94,16 +94,20 @@ class MartinSogoloff:
 
 <div align="center">
 
-### 🧪 Recent Projects
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=35&duration=2500&pause=800&color=9E42F7FF&center=true&vCenter=true&width=600&height=70&lines=Recent+Projects" alt="My name">
 
-[![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
-[![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=IMAGO-Image-Converter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
+[![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=midnight-purple&border_color=C955FA)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
+[![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=IMAGO-Image-Converter&theme=midnight-purple&border_color=C955FA)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
 
 </div>
 
+<div align="center">
+  
 ### 📩 Let's talk
 
 Do you have a project in mind?, I'm available for **work**, **freelance projects**, and **collaborations**.
+
+</div>
 
 ---
 
