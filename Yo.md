@@ -50,34 +50,26 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 <div align="center" style="margin: 40px 0;">
     
-### 💻 Tech Stack
+## ⚡ Tech Stack
 
-#### FRONTEND
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<div align="center">
 
-#### BACKEND
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
+#### 🖥️ FRONTEND
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
-#### DESIGN
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" />
-</p>
+#### 🔧 BACKEND
+[![Backend Skills](https://skillicons.dev/icons?i=py,flask,bash&theme=dark)](https://skillicons.dev)
 
-#### TOOLS
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-</p>
+#### 🎨 DESIGN
+[![Design Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae&theme=dark)](https://skillicons.dev)
+
+#### 🛠️ TOOLS
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
 
 </div>
+
+</div>
+
 ---
 
 ## 🚀 Proyectos Destacados
