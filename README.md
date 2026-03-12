@@ -10,8 +10,8 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsogoloff@gmail.com)
 [![BeHance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/martnsogoloff)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marto-ZZ&style=for-the-badge&color=9E42F7FF&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Marto-ZZ?style=for-the-badge&color=9E42F7FF0&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Marto-ZZ&style=for-the-badge&color=9E42F7&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Marto-ZZ?style=for-the-badge&color=9E42F7&label=Followers" alt="Followers" />
 </p>
 
 </div>
@@ -111,7 +111,7 @@ Do you have a project in mind?, I'm available for **work**, **freelance projects
 
 <div align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=30&pause=1000&color=F7F7F7&width=435&lines=Desde+Buenos+Aires+%F0%9F%A7%89" alt="From Buenos Aires" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=30&pause=1000&color=F7F7F7&width=435&lines=From+Buenos+Aires+%F0%9F%A7%89" alt="From Buenos Aires" />
 </h1>
 </div>
 
