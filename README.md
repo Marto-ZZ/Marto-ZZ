@@ -1,6 +1,6 @@
-
+<div align= "center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=35&duration=2500&pause=800&color=005F73&center=true&vCenter=true&width=600&height=70&lines=%3C+Mart%C3%ADn+Sogoloff+%2F%3E" alt="My name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=35&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=600&height=70&lines=%3C+Mart%C3%ADn+Sogoloff+%2F%3E" alt="My name" />
 </h1>
 
 ### Full Stack Developer · UX/UI Designer · CS Student (UBA)
