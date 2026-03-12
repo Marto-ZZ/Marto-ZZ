@@ -1,6 +1,6 @@
 <div align="center">
 
-# `<Martín Sogoloff/>`
+# `< Martín Sogoloff />`
 
 ### Full Stack Developer · UX/UI Designer · CS Student (UBA)
 
