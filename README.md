@@ -92,12 +92,14 @@ class MartinSogoloff:
 
 <div align="center">
 
+### 🧪 Recent Projects
+
 [![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
 [![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=IMAGO-Image-Converter&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
 
 </div>
 
-### 📫 Let's talk
+### 📩 Let's talk
 
 Do you have a project in mind?, I'm available for **work**, **freelance projects**, and **collaborations**.
 
