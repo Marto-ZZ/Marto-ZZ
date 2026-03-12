@@ -96,8 +96,8 @@ class MartinSogoloff:
 
 ### 🧪 Recent Projects
 
-[![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=merko)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
-[![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=IMAGO-Image-Converter&theme=merko)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
+[![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=midnight-purple&border_color=C955FA)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
+[![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=IMAGO-Image-Converter&theme=midnight-purple&border_color=C955FA)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
 
 </div>
 
