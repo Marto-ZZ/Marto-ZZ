@@ -50,14 +50,14 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 <div align="center" style="margin: 40px 0;">
     
-## ⚡ Tech Stack
+## </> Tech Stack
 
 <div align="center">
 
 #### 🖥️ FRONTEND
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
 
-#### 🔧 BACKEND
+#### 👨🏻‍💻 BACKEND
 [![Backend Skills](https://skillicons.dev/icons?i=py,flask,bash&theme=dark)](https://skillicons.dev)
 
 #### 🎨 DESIGN
