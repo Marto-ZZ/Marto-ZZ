@@ -60,14 +60,14 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&cache_seconds=1800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -89,7 +89,6 @@ class MartinSogoloff:
     def contactar(self):
         return "martinsogoloff@gmail.com 📩"
 ```
-
 ---
 
 <div align="center">
