@@ -49,7 +49,8 @@ My approach mix **computational logic** with **technical precision**: I build pr
 ---
 
 <div align="center" style="margin: 40px 0;">
-## ⚡ Tech Stack
+    
+### 💻 Tech Stack
 
 #### FRONTEND
 <p align="center">
