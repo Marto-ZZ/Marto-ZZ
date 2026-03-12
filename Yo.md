@@ -1,19 +1,5 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██████╗ ████████╗██╗███╗   ██╗    ███████╗ ██████╗  ██████╗  ██████╗ ██╗      ██████╗ ███████╗███████╗
-████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝██║████╗  ██║    ██╔════╝██╔═══██╗██╔════╝ ██╔═══██╗██║     ██╔═══██╗██╔════╝██╔════╝
-██╔████╔██║███████║██████╔╝   ██║   ██║██╔██╗ ██║    ███████╗██║   ██║██║  ███╗██║   ██║██║     ██║   ██║█████╗  █████╗  
-██║╚██╔╝██║██╔══██║██╔══██╗   ██║   ██║██║╚██╗██║    ╚════██║██║   ██║██║   ██║██║   ██║██║     ██║   ██║██╔══╝  ██╔══╝  
-██║ ╚═╝ ██║██║  ██║██║  ██║   ██║   ██║██║ ╚████║    ███████║╚██████╔╝╚██████╔╝╚██████╔╝███████╗╚██████╔╝██║     ██║     
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝    ╚══════╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝     
-                                                                                                                         
-```
-
-</div>
-
-<div align="center">
-
 # `</Martín Sogoloff>`
 
 ### Full Stack Developer · UX/UI Designer · CS Student (UBA)
@@ -27,7 +13,7 @@
 
 ---
 
-<img align="center" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ```python
 class MartinSogoloff:
@@ -66,23 +52,6 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 <div align="center">
 
-<p align="center">
-  🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
-   </p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://discord.com/users/aashiszha" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://aashisjha.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://fb.com/eraashis" target="_blank"><img alt="" src="https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=3b5998" style="vertical-align:center" /></a>
-<a href="https://twitter.com/eraashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/aashisjha_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://replit.com/@aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=FFA500" style="vertical-align:center" /></a>
-<a href="https://codepen.io/OracleBrain" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-000?style=for-the-badge&logo=codepen&logoColor=FFFFFF" style="vertical-align:center" /></a>
-<a href="https://www.youtube.com/@OracleBrain" target="_blank"><img alt="" src="https://img.shields.io/badge/OracleBrain%20-000?style=for-the-badge&logo=youtube&logoColor=white" style="vertical-align:center" /></a>
-<a href="mailto:bewithu.aj@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
-</p>
-
 | Categoría | Tecnologías |
 |-----------|-------------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
@@ -93,6 +62,71 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 </div>
 
+<p align="center">
+    
+<div align="center" style="margin: 40px 0;">
+
+#### Languages Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+#### 🅐🅓🅓🅘🅣🅘🅞🅝🅐🅛 🅣🅔🅒🅗🅝🅞🅛🅞🅖🅘🅔🅢
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
+
+#### **🅕🅡🅐🅜🅔🅦🅞🅡🅚🅢 & 🅛🅘🅑🅡🅐🅡🅘🅔🅢**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby" />
+</p>
+
+#### **🅜🅞🅑🅘🅛🅔 & 🅑🅐🅒🅚🅔🅝🅓**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+</p>
+
+#### **🅒🅛🅞🅤🅓 & 🅓🅔🅥🅞🅟🅢**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
+
+#### **🅞🅟🅔🅡🅐🅣🅘🅝🅖 🅢🅨🅢🅣🅔🅜🅢 & 🅣🅞🅞🅛🅢**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js" />
+</p>
+
+</div>
 ---
 
 ## 🚀 Proyectos Destacados
