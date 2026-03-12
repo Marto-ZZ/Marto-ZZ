@@ -1,6 +1,6 @@
 <div align="center">
 
-# `</Martín Sogoloff>`
+# `<Martín Sogoloff/>`
 
 ### Full Stack Developer · UX/UI Designer · CS Student (UBA)
 
@@ -89,8 +89,18 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 ---
 
+<div align="center">
 
-Do you have a project in mind?, Let's talk, I'm available for **work**, **freelance projects**, and **collaborations**.
+[![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=NOMBRE-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/NOMBRE-REPO)
+[![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=NOMBRE-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Marto-ZZ/NOMBRE-REPO)
+
+</div>
+
+---
+
+### 📫 Let's talk
+
+Do you have a project in mind?, I'm available for **work**, **freelance projects**, and **collaborations**.
 
 ---
 
