@@ -67,7 +67,7 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&cache_seconds=1800)](https://git.io/streak-stats)
 
 </div>
 
@@ -112,7 +112,6 @@ Do you have a project in mind?, I'm available for **work**, **freelance projects
   <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=35&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=From+Buenos+Aires+%F0%9F%A7%89"/>
 </h1>
 
-&cache_seconds=1800
 <!---
 Marto-ZZ/Marto-ZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
