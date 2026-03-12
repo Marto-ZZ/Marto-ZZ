@@ -111,7 +111,7 @@ Do you have a project in mind?, I'm available for **work**, **freelance projects
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=30&pause=1000&color=F7F7F7&width=435&lines=From+Buenos+Aires+%F0%9F%A7%89"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=35&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=From+Buenos+Aires+%F0%9F%A7%89"/>
 </h1>
 
 <!---
