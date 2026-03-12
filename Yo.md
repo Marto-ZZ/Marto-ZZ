@@ -72,72 +72,6 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 ---
 
-## 🚀 Proyectos Destacados
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 PolyglotLAB
-Aplicación web de **traducción multilenguaje** con backend en Python. Integra `deep-translator` para traducciones precisas y contextuales.
-
-**Stack:** `Python` `Flask` `JavaScript` `HTML` `CSS`
-
-[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Marto-ZZ)
-
-</td>
-<td width="50%">
-
-### 🖼️ IMAGO
-Herramienta minimalista para **conversión de imágenes** (JPG, PNG, WEBP, GIF). Drag & Drop, procesamiento server-side sin persistencia de archivos.
-
-**Stack:** `Python` `Flask` `Pillow` `JavaScript`
-
-[![Repo](https://img.shields.io/badge/Ver_Repo-181717?style=flat-square&logo=github)](https://github.com/Marto-ZZ)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✈️ Freely App
-Diseño **UX/UI completo** de app móvil de viajes. Investigación de usuarios, arquitectura de información, wireframes y sistema de diseño.
-
-**Stack:** `Figma` `UX Research` `Prototipado`
-
-[![Behance](https://img.shields.io/badge/Ver_en_Behance-1769FF?style=flat-square&logo=behance)](https://www.behance.net/)
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Personal
-Portfolio web **diseñado y desarrollado desde cero**, combinando precisión técnica con identidad visual propia.
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
-[![Live](https://img.shields.io/badge/Ver_Live-000000?style=flat-square&logo=vercel)](https://marto-zz.github.io/PORTFOLIO/)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Formación
-
-```
-📍 Universidad de Buenos Aires (UBA)
-   └─ Lic. en Ciencias de la Computación — En curso
-
-🎓 Harvard University
-   └─ CS50P: Introduction to Programming with Python — Completado ✓
-
-🎨 Coderhouse
-   └─ Diseño UX/UI — Certificado obtenido ✓
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -155,32 +89,23 @@ Portfolio web **diseñado y desarrollado desde cero**, combinando precisión té
 
 ---
 
-## 📫 Hablemos
 
-¿Tenés un proyecto en mente? Estoy disponible para **trabajo**, **proyectos freelance** y **colaboraciones**.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/📧_martinsogoloff@gmail.com-EA4335?style=for-the-badge)](mailto:martinsogoloff@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mart%C3%ADn-sogoloff/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://marto-zz.github.io/PORTFOLIO/)
-
-</div>
+Do you have a project in mind?, Let's talk, I'm available for **work**, **freelance projects**, and **collaborations**.
 
 ---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════╗
-║   Construyendo desde Buenos Aires 🧉              ║
-║   Disponible para trabajo & freelance ✅          ║
-╚══════════════════════════════════════════════════╝
+╔════════════════════════════════════════╗
+║   Construyendo desde Buenos Aires 🧉   ║
+╚════════════════════════════════════════╝
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Marto-ZZ&style=flat-square&color=58A6FF&label=Visitas+al+perfil)
 
 </div>
+
 <!---
 Marto-ZZ/Marto-ZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
