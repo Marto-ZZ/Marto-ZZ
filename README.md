@@ -5,10 +5,14 @@
 
 ### Full Stack Developer · UX/UI Designer · CS Student (UBA)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://marto-zz.github.io/PORTFOLIO/)
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-000000?style=for-the-badge&logoColor=white)](https://marto-zz.github.io/PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-sogoloff/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsogoloff@gmail.com)
 [![BeHance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/martnsogoloff)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Marto-ZZ&style=for-the-badge&color=008080&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Marto-ZZ?style=for-the-badge&color=008080&label=Followers" alt="Followers" />
+</p>
 
 </div>
 
