@@ -14,9 +14,9 @@
 
 <div align="center">
 
-# `< Martín Sogoloff />`
+# `</Martín Sogoloff>`
 
-### Full Stack Developer · UX/UI Designer · CS Student @ UBA
+### Full Stack Developer · UX/UI Designer · CS Student (UBA)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://marto-zz.github.io/PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-sogoloff/)
@@ -27,29 +27,23 @@
 
 ---
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img align="center" width="380" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 ```python
 class MartinSogoloff:
     
-    ubicacion  = "Buenos Aires 🇦🇷"
-    rol        = "Full Stack Developer"
-    universidad = "UBA — Cs. de la Computación"
-    estado     = "Disponible para trabajo & freelance ✅"
+    Location   = "Buenos Aires, Argentina"
+    Role       = "Full Stack Developer"
+    College    = "UBA - Computer Science"
+    Status     = "Open for work & freelance"
     
     skills = {
         "frontend"  : ["HTML", "CSS", "JavaScript"],
         "backend"   : ["Python", "Flask"],
-        "design"    : ["Figma", "UX/UI", "Prototipado"],
+        "design"    : ["Figma", "UX/UI", "Photoshop"],
         "tools"     : ["Git", "GitHub", "ML / LLMs"],
     }
-    
-    filosofia = """
-      No solo escribo código.
-      Diseño soluciones que resuelven
-      problemas reales.
-    """
-    
+
     def contactar(self):
         return "martinsogoloff@gmail.com 📩"
 ```
@@ -60,11 +54,11 @@ class MartinSogoloff:
 
 ## 🧠 Sobre mí
 
-Hola, soy **Martín** — estudiante de **Licenciatura en Ciencias de la Computación en la UBA** y desarrollador full stack con foco en diseño y experiencia de usuario.
+Hi, I'm **Martín** - **Computer Science (UBA)** student and Fullstack Developer & UX/UI Designero.
 
-Mi enfoque combina **precisión técnica** con **sensibilidad de diseño**: construyo productos que no solo funcionan con eficiencia, sino que se sienten intuitivos y agradables de usar.
+My approach mix **computational logic** with **technical precision**: I build products that not only work efficiently, but also feel intuitive and enjoyable to use.
 
-> *"La diferencia entre código y producto es el diseño. Construyo los dos."*
+> *"The difference between code and product is design. **I build both**."*
 
 ---
 
