@@ -60,8 +60,8 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=midnight-purple" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=midnight-purple" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true" />
 
 </div>
 
