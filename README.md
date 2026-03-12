@@ -65,6 +65,11 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 </div>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=aura)](https://git.io/streak-stats)
+
+</div>
 
 ```python
 class MartinSogoloff:
@@ -84,12 +89,6 @@ class MartinSogoloff:
     def contactar(self):
         return "martinsogoloff@gmail.com 📩"
 ```
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&cache_seconds=1800)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 <div align="center">
