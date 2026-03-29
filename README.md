@@ -60,14 +60,14 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true&cache_seconds=1800" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true&hide=tex,latex" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true&cache_seconds=1800"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true&hide=tex,latex"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Marto-ZZ&theme=aura&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Marto-ZZ&theme=aura&hide_border=true)](https://git.io/streak-stats)
  
 </div>
 
