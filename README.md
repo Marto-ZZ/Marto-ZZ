@@ -95,8 +95,8 @@ class MartinSogoloff:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=35&duration=2500&pause=800&color=9E42F7FF&center=true&vCenter=true&width=600&height=70&lines=Recent+Projects" alt="My name">
 
-[![PolyglotLAB](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=midnight-purple&border_color=C955FA)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
-[![IMAGO](https://github-readme-stats.vercel.app/api/pin/?username=Marto-ZZ&repo=IMAGO-Image-Converter&theme=midnight-purple&border_color=C955FA&cache_seconds=1800)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
+[![PolyglotLAB](https://github-stats-extended.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=midnight-purple&border_color=C955FA&cache_seconds=1800)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
+[![IMAGO](https://github-stats-extended.vercel.app/api/pin/?username=marto-zz&repo=IMAGO-Image-Converter&theme=midnight-purple&border_color=C955FA&cache_seconds=1800)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
 
 </div>
 
