@@ -75,19 +75,19 @@ My approach mix **computational logic** with **technical precision**: I build pr
 class MartinSogoloff:
     
     Location   = "Buenos Aires, Argentina"
-    Role       = "Full Stack Developer"
-    College    = "UBA - Computer Science"
+    Role       = "Full Stack Developer Jr."
+    College    = "UBA - BSc & MSc in Computer Science"
     Status     = "Open for work & freelance"
     
     skills = {
         "frontend"  : ["HTML", "CSS", "JavaScript"],
         "backend"   : ["Python", "Flask"],
         "design"    : ["Figma", "UX/UI", "Photoshop"],
-        "tools"     : ["Git", "GitHub", "ML / LLMs"],
+        "tools"     : ["Git", "GitHub", "Trello"],
     }
 
     def contactar(self):
-        return "martinsogoloff@gmail.com 📩"
+        return "martinsogoloff@gmail.com"
 ```
 ---
 
@@ -110,11 +110,11 @@ Do you have a project in mind?, I'm available for **work**, **freelance projects
 
 ---
 
-
-<h1 align="center">
+<div align="center">
+<h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=35&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=From+Buenos+Aires+%F0%9F%A7%89"/>
 </h1>
-
+</div>
 <!---
 Marto-ZZ/Marto-ZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
