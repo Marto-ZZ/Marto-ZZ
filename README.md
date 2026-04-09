@@ -28,7 +28,7 @@
 
 ## 🧠 About me
 
-Hi, I'm **Martín** - **Computer Science (UBA)** student, also a Fullstack Developer & UX/UI Designer.
+Hi, I'm **Martín** - **BSc & MSc in Computer Science (UBA)** student, also a Fullstack Developer Jr. & UX/UI Designer.
 
 My approach mix **computational logic** with **technical precision**: I build products that not only work efficiently, but also feel intuitive and enjoyable to use.
 
