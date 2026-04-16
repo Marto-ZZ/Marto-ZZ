@@ -4,7 +4,6 @@
 </h1>
 
 ### Full Stack Developer · UX/UI Designer · CS Student (UBA)
-
 [![Portfolio](https://img.shields.io/badge/💼_Portfolio-000000?style=for-the-badge&logoColor=white)](https://marto-zz.github.io/PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-sogoloff/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsogoloff@gmail.com)
