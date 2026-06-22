@@ -1,13 +1,16 @@
-<div align= "center">
+<div align="center">
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=35&duration=2500&pause=800&color=9E42F7FF&center=true&vCenter=true&width=600&height=70&lines=%3C+Mart%C3%ADn+Sogoloff+%2F%3E" alt="My name" />
 </h1>
 
-### Full Stack Developer · UX/UI Designer · CS Student (UBA)
-[![Portfolio](https://img.shields.io/badge/💼_Portfolio-000000?style=for-the-badge&logoColor=white)](https://marto-zz.github.io/PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-sogoloff/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsogoloff@gmail.com)
-[![BeHance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/martnsogoloff)
+### Full Stack Developer · UX/UI Designer · Computer Science Student
+
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-000000?style=for-the-badge\&logoColor=white)](https://marto-zz.github.io/PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-sogoloff/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:martinsogoloff@gmail.com)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge\&logo=behance\&logoColor=white)](https://www.behance.net/martnsogoloff)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marto-ZZ&style=for-the-badge&color=9E42F7&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Marto-ZZ?style=for-the-badge&color=9E42F7&label=Followers" alt="Followers" />
@@ -21,41 +24,43 @@
   <img src="https://raw.githubusercontent.com/Marto-ZZ/Marto-ZZ/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-<br clear="right"/>
-
 ---
 
-## 🧠 About me
+# ✨ About Me
 
-Hi, I'm **Martín** - **BSc & MSc in Computer Science (UBA)** student, also a Fullstack Developer Jr. & UX/UI Designer.
+Hi, I'm **Martín**.
 
-My approach mix **computational logic** with **technical precision**: I build products that not only work efficiently, but also feel intuitive and enjoyable to use.
+I'm a Computer Science student at **UBA** and a **Full Stack Developer** with a background in **UX/UI Design**.
 
-> *"The difference between code and product is design. **I build both**."*
+I enjoy building digital products from end to end, combining computational thinking with user-centered design.
+
+> *"The difference between code and product is design. I build both."*
 
 ---
-
-<div align="center" style="margin: 40px 0;">
-    
-## </> Tech Stack
 
 <div align="center">
 
-#### 🖥️ FRONTEND
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+# 💻 My Stack
 
-#### 👨🏻‍💻 BACKEND
-[![Backend Skills](https://skillicons.dev/icons?i=py,flask,bash&theme=dark)](https://skillicons.dev)
+### Frontend
 
-#### 🎨 DESIGN
-[![Design Skills](https://skillicons.dev/icons?i=figma,ps,ai,ae&theme=dark)](https://skillicons.dev)
+[![Interfaces](https://skillicons.dev/icons?i=html,css,js,ts,tailwind\&theme=dark)](https://skillicons.dev)
 
-#### 🛠️ TOOLS
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+### Backend
+
+[![Systems](https://skillicons.dev/icons?i=py,fastapi,nodejs,bash\&theme=dark)](https://skillicons.dev)
+
+### Design
+
+[![Design](https://skillicons.dev/icons?i=figma,ps,ai,ae\&theme=dark)](https://skillicons.dev)
+
+### Workflow
+
+[![Workflow](https://skillicons.dev/icons?i=git,github,vscode,linux\&theme=dark)](https://skillicons.dev)
 
 </div>
 
-</div>
+---
 
 <div align="center">
 
@@ -66,53 +71,64 @@ My approach mix **computational logic** with **technical precision**: I build pr
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Marto-ZZ&theme=aura&hide_border=true)](https://git.io/streak-stats)
- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Marto-ZZ\&theme=aura\&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ```python
 class MartinSogoloff:
-    
-    Location   = "Buenos Aires, Argentina"
-    Role       = "Full Stack Developer Jr."
-    College    = "UBA - BSc & MSc in Computer Science"
-    Status     = "Open for work & freelance"
-    
-    skills = {
-        "frontend"  : ["HTML", "CSS", "JavaScript"],
-        "backend"   : ["Python", "Flask"],
-        "design"    : ["Figma", "UX/UI", "Photoshop"],
-        "tools"     : ["Git", "GitHub", "Trello"],
+
+    location = "Buenos Aires, Argentina"
+    role = "Full Stack Developer"
+
+    education = "Computer Science - UBA"
+
+    stack = {
+        "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "Tailwind"],
+        "backend": ["Python", "FastAPI", "Node.js"], 
+        "design": ["Figma", "Photoshop"]
     }
 
-    def contactar(self):
+    currently_learning = ["Computer Science", "React", "AWS", "Backend Architecture"]
+
+    available_for = ["Freelance", "Collaborations"]
+
+    def contact(self):
         return "martinsogoloff@gmail.com"
 ```
+
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=35&duration=2500&pause=800&color=9E42F7FF&center=true&vCenter=true&width=600&height=70&lines=Recent+Projects" alt="My name">
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=35&duration=2500&pause=800&color=9E42F7FF&center=true&vCenter=true&width=600&height=70&lines=Featured+Projects" alt="Projects">
 
-[![PolyglotLAB](https://github-stats-extended.vercel.app/api/pin/?username=Marto-ZZ&repo=PolyglotLAB-python-translator&theme=midnight-purple&border_color=C955FA&cache_seconds=1800)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
-[![IMAGO](https://github-stats-extended.vercel.app/api/pin/?username=marto-zz&repo=IMAGO-Image-Converter&theme=midnight-purple&border_color=C955FA&cache_seconds=1800)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
+[![PolyglotLAB](https://github-stats-extended.vercel.app/api/pin/?username=Marto-ZZ\&repo=PolyglotLAB-python-translator\&theme=midnight-purple\&border_color=C955FA\&cache_seconds=1800)](https://github.com/Marto-ZZ/PolyglotLAB-python-translator)
 
-</div>
-
-<div align="center">
-  
-### 📩 Let's talk
-
-Do you have a project in mind?, I'm available for **work**, **freelance projects**, and **collaborations**.
+[![IMAGO](https://github-stats-extended.vercel.app/api/pin/?username=marto-zz\&repo=IMAGO-Image-Converter\&theme=midnight-purple\&border_color=C955FA\&cache_seconds=1800)](https://github.com/Marto-ZZ/IMAGO-Image-Converter)
 
 </div>
 
 ---
 
 <div align="center">
+
+# 🤝 Let's Build Something Together
+
+I'm open to **new opportunities**, **freelance projects**, and **collaborations**.
+
+Feel free to reach out.
+
+</div>
+
+---
+
+<div align="center">
+
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=35&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=From+Buenos+Aires+%F0%9F%A7%89"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=35&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=From+Buenos+Aires+🧉"/>
 </h1>
+
 </div>
 <!---
 Marto-ZZ/Marto-ZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
