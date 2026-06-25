@@ -30,9 +30,8 @@
 
 Hi, I'm **Martín**.
 
-I'm a Computer Science student at **UBA** and a **Full Stack Developer** with a background in **UX/UI Design**.
-
-I enjoy building digital products from end to end, combining computational thinking with user-centered design.
+Currently doing my BSc & MSc at the **University of Buenos Aires** and training to be a **Full Stack Developer** with a background in **UX/UI Design**.
+I am passionate about the entire development cycle: from API design and backend architecture to interface implementation and production deployment.
 
 > *"The difference between code and product is design. I build both."*
 
