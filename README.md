@@ -43,7 +43,7 @@ I am passionate about the entire development cycle: from API design and backend 
 
 ### Frontend
 
-[![Interfaces](https://skillicons.dev/icons?i=html,css,js,ts,tailwind\&theme=dark)](https://skillicons.dev)
+[![Interfaces](https://skillicons.dev/icons?i=html,css,js,ts,react\&theme=dark)](https://skillicons.dev)
 
 ### Backend
 
