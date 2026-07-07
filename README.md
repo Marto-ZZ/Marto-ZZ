@@ -63,8 +63,8 @@ I am passionate about the entire development cycle: from API design and backend 
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true&cache_seconds=18"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true&hide=tex,latex&cache_seconds=18"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true&cache_seconds=2"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true&hide=tex,latex&cache_seconds=2"/>
 
 </div>
 
