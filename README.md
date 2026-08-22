@@ -69,7 +69,7 @@ Right now I'm building **[Vestige Play](https://vestigeplay.com)**, a desktop ga
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true&cache_seconds=4"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true&hide=tex,latex&cache_seconds=5"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true&hide=tex,latex,cc,makefile&cache_seconds=3"/>
 
 </div>
 
