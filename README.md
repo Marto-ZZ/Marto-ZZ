@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Mono&size=35&duration=2500&pause=800&color=9E42F7FF&center=true&vCenter=true&width=600&height=70&lines=%3C+Mart%C3%ADn+Sogoloff+%2F%3E" alt="My name" />
 </h1>
 
-### Full Stack Developer · UX/UI Designer · Computer Science Student
+### Full Stack and Software Developer · Computer Science Student
 
 [![Portfolio](https://img.shields.io/badge/💼_Portfolio-000000?style=for-the-badge&logoColor=white)](https://marto-zz.github.io/PORTFOLIO/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-sogoloff/)
@@ -28,7 +28,7 @@
 
 # ✨ About Me
 
-Hi, I'm **Martín**, a Full Stack Developer based in Buenos Aires, currently pursuing my BSc/MSc in **Computer Science at the University of Buenos Aires (UBA)**, with a background in **UX/UI Design**.
+Hi, I'm **Martín**, a Full Stack & Software Developer based in Buenos Aires, currently pursuing my BSc/MSc in **Computer Science at the University of Buenos Aires (UBA)**, with a background in **UX/UI Design**.
 
 I care about the full lifecycle of a product: architecture and API design, backend logic, interface implementation, and shipping to production, not just writing code that works, but building things people actually want to use.
 
