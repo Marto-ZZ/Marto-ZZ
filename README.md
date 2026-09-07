@@ -68,8 +68,8 @@ Right now I'm building **[Vestige Play](https://vestigeplay.com)**, a desktop ga
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true&cache_seconds=4"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true&hide=tex,latex,C%2B%2B,makefile&cache_seconds=3"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Marto-ZZ&show_icons=true&theme=aura&hide_border=true&cache_seconds=7"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Marto-ZZ&layout=compact&theme=aura&hide_border=true&hide=tex,latex,C%2B%2B,makefile&cache_seconds=2"/>
 
 </div>
 
